@@ -1,0 +1,17 @@
+{
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "name": "btctrader",
+  "description": "javascript bitcoin trading library for nodejs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bitfloor/trader.nodejs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bitfloor/trader.nodejs.git"
+  },
+  "dependencies": {
+    "microtime": "0.2.0",
+    "colors": "0.6.0-1",
+    "num": "0.1.2"
+  },
+  "devDependencies": {}
+}
